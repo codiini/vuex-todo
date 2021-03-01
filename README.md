@@ -1,5 +1,6 @@
 # vuex-tut
 
+This is a demo project I used to learn Vuex taught by Brad traversy
 ## Project setup
 ```
 yarn install
